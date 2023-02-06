@@ -1,2 +1,2 @@
-COM 21A
+COM 21B
 Akylbek kyzy Zhibek
